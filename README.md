@@ -6,3 +6,4 @@
 ![Screenshot 2024-02-16 094756](https://github.com/manu5703/travel_website_django/assets/109054430/ef36da55-909a-4aa3-9a3e-6cc5fe507f22)
 ![Screenshot 2024-02-16 094807](https://github.com/manu5703/travel_website_django/assets/109054430/317bf902-12e8-4dd3-b01d-7fce21715bb4)
 ![Screenshot 2024-02-16 094820](https://github.com/manu5703/travel_website_django/assets/109054430/1592090d-6071-4c0e-8a76-5aac1d5cb4e4)
+![Screenshot 2024-02-16 094649](https://github.com/manu5703/travel_website_django/assets/109054430/e4cc156d-cdc7-486a-bcd7-1dfcd354f41e)
